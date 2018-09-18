@@ -3,10 +3,10 @@ This repository contains personal projects and work I've completed for the Sprin
 <br/>
 <br/>
 #### Capstone 1 - NFL Matchup Predictions
-A start to end project for creating a model to predict the outcomes of NFL games based on matchup statistics
+A start to end project which leverages an NFL api to create a model for predicting the outcomes of NFL games based on matchup statistics
 <br/>
 <br/>
 #### Data Wrangling
-Mini projects oriented to display skills for collecting and manipulated data. The folder includes practice manipulating JSON data, pulling data from a Database, and using a REST API.
+Mini projects oriented to display skills for collecting and manipulating data. The folder includes practice manipulating JSON data, pulling data from a Database, and using a REST API.
 
 
