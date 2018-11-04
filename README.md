@@ -12,4 +12,8 @@ Mini projects oriented to display skills for collecting and manipulating data. T
 <br/>
 #### EDA
 Mini projects which use statistical inference tests to determine significant differences and correlations while exploring datasets.
+<br/>
+<br/>
+#### Machine Learning
+Mini projects related to various standard ML algorithms. Projects invlove preprocessing steps, hyperparameter tuning, and validations needed specificy for the algorithm being used in the project.
 
