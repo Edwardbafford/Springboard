@@ -15,5 +15,5 @@ Mini projects which use statistical inference tests to determine significant dif
 <br/>
 <br/>
 #### Machine Learning
-Mini projects related to various standard ML algorithms. Projects invlove preprocessing steps, hyperparameter tuning, and validations needed specificy for the algorithm being used in the project.
+Mini projects related to various standard ML algorithms. Projects invlove preprocessing steps, hyperparameter tuning, and validations needed specific for the algorithm being used in the project.
 
