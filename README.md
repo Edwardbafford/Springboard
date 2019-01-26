@@ -20,4 +20,7 @@ Small projects which use statistical inference tests to determine significant di
 <br/>
 #### Machine Learning
 Small projects related to various standard ML algorithms. Projects invlove preprocessing steps, hyperparameter tuning, and validations needed specific for the algorithm being used in the project. Clustering, Naive Bayes, Linear Regression, Logistic Regression, and Deep Neural Network algorithms are practiced in this section.
-
+<br/>
+<br/>
+#### Small Projects
+In this section there are a couple of fully worked through projects. Similar to the capstones but significantly smaller and less thorough. They are designed to be quick to read through but still display the necessary skillset of a data scientist.
